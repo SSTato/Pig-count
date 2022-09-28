@@ -8,7 +8,7 @@ Use Yolov5_ StrongSORT counts pigs in the past.
 <details>
   <summary>对经过检测区域的猪只进行计数 (click to expand)</summary>
 
-<p align="left"><img width="800" src="https://github.com/SSTato/Meter/blob/master/zhizhen/01.PNG"></p>
+<p align="left"><img width="800" src="https://github.com/SSTato/Pig-count/blob/master/strong_sort/1.jpg"></p>
 
 </details>
 
@@ -16,7 +16,7 @@ Use Yolov5_ StrongSORT counts pigs in the past.
 
 <details>
   <summary>训练所需的数据集可在阿里网盘中下载 (click to expand)</summary>
-<p> 链接：https://www.aliyundrive.com/s/iiKGjmWWbrn </p>
-<p>提取码：d46b </p>
+<p> 链接：https://www.aliyundrive.com/s/TwypR18C6kB </p>
+<p>提取码：n73q </p>
 </details>
 
