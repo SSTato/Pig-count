@@ -13,10 +13,10 @@ Use Yolov5_ StrongSORT counts pigs in the past.
 </details>
 <details>
   <summary>检测效果视频可在阿里网盘中下载 (click to expand)</summary>
-<p> 小猪计数链接：https://www.aliyundrive.com/s/bABjjfM41L7 </p>
-<p>提取码：4sj0 </p>
-<p> 大猪计数链接：https://www.aliyundrive.com/s/aLbMPsVTFZg </p>
-<p>提取码：c10x </p>
+<p> 小猪计数链接：https://www.aliyundrive.com/s/bJeo1FvyJYq </p>
+<p>提取码：y3m7 </p>
+<p> 大猪计数链接：https://www.aliyundrive.com/s/Yr4pQWTaWyA </p>
+<p>提取码：7u7c </p>
 </details>
 ### 文件下载
 <details>
