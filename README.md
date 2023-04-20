@@ -22,6 +22,9 @@ Use Yolov5_ StrongSORT counts pigs in the past.
 <details>
   <summary>训练所需的数据集可在阿里网盘中下载 (click to expand)</summary>
 <p> 链接：https://www.aliyundrive.com/s/TwypR18C6kB </p>
-<p>提取码：n73q </p>
+<p>提取码：q37n </p>
+  <summary>测试视频可在阿里网盘中下载 (click to expand)</summary>
+<p> 链接：https://www.aliyundrive.com/s/xZ3CDrA9VaY </p>
+<p>提取码：a8r8 </p>
 </details>
 
